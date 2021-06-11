@@ -97,7 +97,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ReportProcessing\DriverUtility.csproj">
+    <ProjectReference Include="..\DriverUtility\DriverUtility.csproj">
       <Project>{6b933377-2c64-419c-affc-e872efecad8b}</Project>
       <Name>DriverUtility</Name>
     </ProjectReference>
