@@ -1,6 +1,6 @@
 # SafeAutoCodeKata
 
-This is a WPF project used to create a report from data contained in a text file (sample data shown below). Each line starts with word indicating the type of data contained in the line. The output report contains a list of the drivers sorted with their average speed and total distance. Ths list is sorted by total distance. 
+This is a WPF project used to create a report from data contained in a text file (sample data shown below). Each line starts with word indicating the type of data contained in the line. The output report contains a list of the drivers (sorted by distance) with their average speed and total distance.
 
 ## Sample Data
 Driver John  
